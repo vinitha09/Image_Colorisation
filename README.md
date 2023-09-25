@@ -9,4 +9,4 @@ https://eecs.berkeley.edu/~rich.zhang...​
 Prototxt Link: 
 https://github.com/richzhang/coloriza...
 
-#output
+# output
